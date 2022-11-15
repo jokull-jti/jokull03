@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokull03
 - 👀 I’m interested in learning: how my computer actually works
-- 🌱 I’m currently learning: C
+- 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: I don't have anything I'm interested in collaborating on
 - 📫 How to reach me: idk, maybe I'll add something here later
 
